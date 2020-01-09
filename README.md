@@ -1,6 +1,6 @@
-# datasciencecoursera
+# datascience edx
 =======
 
-My first repository for the Coursera Data Science course.
+My first repository for the edx Data Science course.
 :coffee:
 
